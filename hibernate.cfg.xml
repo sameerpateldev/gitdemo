@@ -15,5 +15,6 @@
 		<mapping resource="com/onetomanysethql/entities/Product.hbm.xml" />
 		<mapping resource="com/onetomanysethql/entities/Review.hbm.xml" />
 
+
 	</session-factory>
 </hibernate-configuration>
